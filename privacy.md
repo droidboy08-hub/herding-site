@@ -66,4 +66,4 @@ Any change to this policy will be published on this page with a new date.
 
 ## Contact
 
-Questions about this policy: [droidboy08@gmail.com](mailto:droidboy08@gmail.com)
+Questions about this policy: [herdingbrowser@gmail.com](mailto:herdingbrowser@gmail.com)

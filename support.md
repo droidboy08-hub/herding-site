@@ -29,7 +29,7 @@ before assuming the site is broken.
 ## Reporting a problem
 
 Please include the site's address and what you expected to happen:
-[droidboy08@gmail.com](mailto:droidboy08@gmail.com)
+[herdingbrowser@gmail.com](mailto:herdingbrowser@gmail.com)
 
 ## Privacy
 
