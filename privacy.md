@@ -6,8 +6,8 @@ title: Privacy Policy — Herding
 
 **Last updated: 4 August 2026**
 
-Herding is a web browser for iPhone, published by Rekha Sharma. It has no account
-system, no analytics, and no advertising. This policy explains what the app does
+Herding is a web browser for iPhone. It has no account system, no analytics, and
+no advertising. This policy explains what the app does
 with information, which is almost nothing.
 
 ## What we collect
@@ -66,5 +66,4 @@ Any change to this policy will be published on this page with a new date.
 
 ## Contact
 
-Herding is published by Rekha Sharma. Questions about this policy:
-[herdingbrowser@gmail.com](mailto:herdingbrowser@gmail.com)
+Questions about this policy: [herdingbrowser@gmail.com](mailto:herdingbrowser@gmail.com)
