@@ -6,8 +6,8 @@ title: Privacy Policy — Herding
 
 **Last updated: 4 August 2026**
 
-Herding is a web browser for iPhone. It has no account system, no analytics, and
-no advertising. This policy explains what the app does
+Herding is a web browser for iPhone, published by Baljinder Singh. It has no
+account system, no analytics, and no advertising. This policy explains what the app does
 with information, which is almost nothing.
 
 ## What we collect
