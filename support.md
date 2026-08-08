@@ -18,11 +18,11 @@ button.
 
 The downward drag deliberately ignores video players, so scrubbing or dismissing
 a video never opens Home by accident. If it still feels too eager or too stubborn,
-**Settings → Home → Swipe sensitivity** adjusts how far you have to drag.
+**Settings → Home & Appearance → Swipe sensitivity** adjusts how far you have to drag.
 
 ## Blocking
 
-**Settings → Privacy → Content Blocking** chooses how much is blocked. Higher
+**Settings → Privacy → Block Ads & Trackers** chooses how much is blocked. Higher
 levels block more and break more sites. If a page misbehaves, try a lower level
 before assuming the site is broken.
 

@@ -1,0 +1,8 @@
+# Without this file GitHub Pages titles the site after the repository, so every
+# page was headed "herding-site".
+title: Herding Browser
+description: A minimal, tab-less browser for iPhone.
+
+# The theme Pages was already building with. Named explicitly so adding this
+# file changes the title and nothing else.
+theme: jekyll-theme-primer
